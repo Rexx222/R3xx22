@@ -1,0 +1,48 @@
+Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea de que instala cada uno.
+Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
+
+
+| PKG | Que instala cada uno de estos PKG |
+| ------ | ------ |
+| 14.500 Licencias | Instala el pack de licencias de juegos y DLCs de PS3 PSN de toda la vida |
+| Nuevas Licencias WIKISTORE 1.X.X | Instala el pack de licencias de los nuevos juegos que se añaden a WIKISTORE en cada nueva versión |
+| 920 Nuevas Licencias Extra | Instala un pack de Licencias Extra de juegos y dlcs de PS3 PSN |
+| Fix CFW 486 REBUG LITE | Instala un fix por si no aparece la tienda en este CFW en especifico |
+| Fix HFW 486 HEN | Instala un fix por si no aparece la tienda solo HFW |
+| WIKISTORE 1.X.X | Instala WIKISTORE sin nada más, ideal para los que tienen una versión anterior en HFW o CFW y solo quieren actualizarla |
+| WIKISTORE 1.X.X CFW REBUG 486 PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
+| WIKISTORE 1.X.X HFW 486 HEN PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
+| 15.280_Licencias.pkg | Instala el pack de licencias PSN de Juegos y DLCs de PS3, PS2, PSX, PSP de toda la vida (No Recomendado) |
+| 15.280 Licencias.zip | Pack de Licencias a instalar por separado de forma manual a la carpeta exdata del USB o HDD (Recomendado) |
+| Fix_CFW_486_REBUG_LITE.pkg | Instala un fix por si no se visualiza WIKISTORE en este CFW en especifico |
+| Fix_HFW_486_HEN.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
+| WIKISTORE_1.0.7.pkg | Instalador WIKISTORE |
+
+
+En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala en HFW HEN 4.86 y en CFW 4.86 Rebug LITE usando el PACK COMPLETO
+- Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
+
+---
+
+Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cualquier versión 1.x.x) 
+
+[![Watch the video](https://img.youtube.com/vi/Fun_KCq8B5k/maxresdefault.jpg)](https://youtu.be/Fun_KCq8B5k)
+
+---
+### Credits:
+
+- **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville)
+- **#DeVil303** (Oficial HAN/HEN Toolbox)
+- **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville) oficial HEN and tools http://ps3xploit.com/
+- **#DeVil303** (Oficial HAN/HEN Toolbox) and some usefull apps
+- **#pink1** (Oficial HAN Toolbox)
+- **#Berion** (some icons)
+- **#ShaolinAssassin** (contribution in HAN Toolbox)
+- **#lmn7** (Exploits Offline)
+- **#lmn7** (Exploits Offline and Make pkg custom)
+- **#Joonie** (HFW 4.86 and contributions)
+- **#Louay** (Headset Bluetooth & USB)
+- **#PSX-PLACE** (long contribution in PS3 Scene)
+- **#Ignacio** (Muchas contribuciones)
+- **#Reybort** (Algunos juegos cojidos de su pagina http://reybort-juegos.blogspot.com/)
+- **#PSX-PLACE** (long contribution in PS3 Scene) best site for PS3 https://www.psx-place.com/
